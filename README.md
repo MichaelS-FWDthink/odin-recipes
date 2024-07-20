@@ -1,0 +1,1 @@
+The current project is to make a basic website.  By the completion of the project, I will have demonstrated the ability to write in HTML, CSS, and JavaScript and use Git and GitHub.
